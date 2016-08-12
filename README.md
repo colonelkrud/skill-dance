@@ -1,6 +1,6 @@
-# opsdroid skill hello
+# opsdroid skill dance
 
-A skill for [opsdroid](https://github.com/opsdroid/opsdroid) to respond to hello and goodbye messages.
+A skill for [opsdroid](https://github.com/opsdroid/opsdroid) to add dancing GIFs at appropriate times.
 
 ## Requirements
 
@@ -12,21 +12,13 @@ None.
 
 ## Usage
 
-#### `hello`
+#### `dance`
 
-Says hello to the user.
+Inserts a dancing GIF.
 
-> user: hello
+> user: I love to dance!
 >
-> opsdroid: Hi user
-
-#### `goodbye`
-
-Says goodbye to the user.
-
-> user: bye
->
-> opsdroid: Bye user
+> opsdroid: http://i.imgur.com/lnvJm9a.gif
 
 ## License
 
