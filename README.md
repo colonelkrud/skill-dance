@@ -2,6 +2,8 @@
 
 A skill for [opsdroid](https://github.com/opsdroid/opsdroid) to add dancing GIFs at appropriate times.
 
+![Fresh Prince Dancing](http://i.imgur.com/Cj7pp8k.gif)
+
 ## Requirements
 
 None.
